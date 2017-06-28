@@ -107,12 +107,12 @@ class EchoVals():
         plate[5] = [(values[f+1],alphabet[5])]
         print(plate[5],end="\n")
 
-        # fifth row
+    # seventh row (G)
     for g in range(len(values)-1):
         plate[6] = [(values[g+1],alphabet[6])]
         print(plate[6],end="\n")
 
-        # fifth row
+    # eighth row (H)
     for h in range(len(values)-1):
         plate[7] = [(values[h+1],alphabet[7])]
         print(plate[7],end="\n")
