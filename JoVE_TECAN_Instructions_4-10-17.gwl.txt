@@ -1,0 +1,1731 @@
+R;ReagentPlate1;;96 Well Microplate;1;1;Output1;;96 Well Microplate;1;33;6.0;ENZYME;1000;1;0
+R;ReagentPlate1;;96 Well Microplate;2;2;Output1;;96 Well Microplate;34;66;6.0;ENZYME;1000;1;0
+R;ReagentPlate1;;96 Well Microplate;3;3;Output1;;96 Well Microplate;67;96;6.0;ENZYME;1000;1;0
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;1;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;1;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;2;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;2;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;2;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;2;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;2;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;2;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;3;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;3;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;3;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;3;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;3;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;3;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;4;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;4;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;4;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;4;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;4;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;4;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;5;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;5;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;5;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;5;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;5;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;5;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;6;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;6;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;6;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;6;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;6;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;6;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;7;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;7;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;7;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;7;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;7;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;7;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;8;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;8;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;8;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;8;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;8;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;8;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;9;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;9;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;9;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;9;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;9;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;9;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;10;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;10;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;10;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;10;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;10;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;10;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;11;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;11;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;11;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;11;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;11;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;11;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;12;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;1;;2.0
+D;Output1;;96 Well Microplate;12;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;12;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;12;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;12;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;12;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;13;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;13;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;13;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;13;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;13;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;13;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;14;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;14;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;14;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;14;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;14;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;14;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;15;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;15;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;15;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;15;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;15;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;15;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;16;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;16;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;16;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;16;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;16;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;16;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;17;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;17;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;17;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;17;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;17;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;17;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;18;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;18;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;18;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;18;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;18;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;18;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;19;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;19;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;19;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;19;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;19;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;19;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;20;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;20;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;20;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;20;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;20;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;20;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;21;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;21;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;21;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;21;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;21;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;21;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;22;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;22;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;22;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;22;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;22;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;22;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;23;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;23;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;23;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;23;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;23;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;23;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;24;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;3;;2.0
+D;Output1;;96 Well Microplate;24;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;24;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;24;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;24;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;24;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;25;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;25;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;25;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;25;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;25;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;25;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;26;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;26;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;26;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;26;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;26;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;26;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;27;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;27;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;27;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;27;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;27;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;27;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;28;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;28;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;28;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;28;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;28;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;28;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;29;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;29;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;29;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;29;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;29;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;29;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;30;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;30;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;30;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;30;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;30;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;30;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;31;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;31;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;31;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;31;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;31;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;31;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;32;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;32;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;32;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;32;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;32;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;32;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;33;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;33;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;33;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;33;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;33;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;33;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;34;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;34;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;34;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;34;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;34;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;34;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;35;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;35;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;35;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;35;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;35;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;35;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;20;;2.0
+D;Output1;;96 Well Microplate;36;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;7;;2.0
+D;Output1;;96 Well Microplate;36;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;36;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;36;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;16;;2.0
+D;Output1;;96 Well Microplate;36;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;36;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;37;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;37;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;37;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;37;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;37;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;37;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;38;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;38;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;38;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;38;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;38;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;38;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;39;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;39;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;39;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;39;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;39;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;39;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;40;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;40;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;40;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;40;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;40;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;40;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;41;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;41;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;41;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;41;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;41;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;41;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;42;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;42;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;42;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;42;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;42;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;42;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;43;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;43;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;43;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;43;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;43;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;43;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;44;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;44;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;44;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;44;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;44;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;44;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;45;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;45;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;45;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;45;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;45;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;45;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;46;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;46;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;46;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;46;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;46;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;46;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;47;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;47;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;47;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;47;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;47;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;47;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;48;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;2;;2.0
+D;Output1;;96 Well Microplate;48;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;48;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;48;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;48;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;48;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;49;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;49;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;49;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;49;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;49;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;49;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;50;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;50;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;50;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;50;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;50;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;50;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;51;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;51;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;51;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;51;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;51;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;51;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;52;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;52;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;52;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;52;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;52;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;52;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;53;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;53;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;53;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;53;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;53;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;53;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;54;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;54;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;54;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;54;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;54;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;54;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;55;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;55;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;55;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;55;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;55;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;55;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;56;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;56;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;56;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;56;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;56;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;56;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;57;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;57;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;57;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;57;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;57;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;57;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;58;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;58;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;58;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;58;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;58;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;58;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;59;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;59;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;59;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;59;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;59;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;59;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;60;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;4;;2.0
+D;Output1;;96 Well Microplate;60;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;60;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;60;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;60;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;60;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;61;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;61;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;61;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;61;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;61;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;61;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;62;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;62;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;62;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;62;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;62;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;62;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;63;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;63;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;63;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;63;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;63;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;63;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;64;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;64;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;64;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;64;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;64;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;64;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;65;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;65;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;65;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;65;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;65;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;65;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;66;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;66;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;66;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;66;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;66;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;66;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;67;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;67;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;67;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;67;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;67;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;67;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;68;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;68;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;68;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;68;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;68;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;68;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;69;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;69;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;69;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;69;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;69;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;69;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;70;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;70;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;70;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;70;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;70;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;70;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;71;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;71;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;71;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;71;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;71;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;71;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;21;;2.0
+D;Output1;;96 Well Microplate;72;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;8;;2.0
+D;Output1;;96 Well Microplate;72;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;72;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;72;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;17;;2.0
+D;Output1;;96 Well Microplate;72;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;72;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;73;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;73;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;73;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;73;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;73;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;73;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;74;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;74;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;74;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;74;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;74;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;74;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;75;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;75;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;75;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;75;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;75;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;75;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;76;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;76;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;76;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;76;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;76;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;76;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;77;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;77;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;77;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;77;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;77;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;77;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;78;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;78;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;78;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;78;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;78;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;78;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;79;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;79;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;79;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;79;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;79;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;79;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;80;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;80;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;80;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;80;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;80;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;80;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;81;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;81;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;81;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;81;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;81;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;81;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;82;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;82;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;82;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;82;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;82;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;82;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;83;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;83;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;83;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;83;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;83;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;83;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;22;;2.0
+D;Output1;;96 Well Microplate;84;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;5;;2.0
+D;Output1;;96 Well Microplate;84;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;84;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;84;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;18;;2.0
+D;Output1;;96 Well Microplate;84;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;84;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;85;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;85;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;85;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;85;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;85;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;85;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;86;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;86;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;86;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;86;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;86;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;86;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;87;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;87;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;87;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;87;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;87;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;87;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;88;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;88;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;9;;2.0
+D;Output1;;96 Well Microplate;88;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;88;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;88;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;88;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;89;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;89;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;89;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;89;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;89;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;89;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;90;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;90;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;90;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;90;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;90;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;90;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;91;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;91;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;91;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;91;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;91;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;91;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;92;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;92;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;10;;2.0
+D;Output1;;96 Well Microplate;92;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;92;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;92;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;92;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;93;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;93;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;93;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;12;;2.0
+D;Output1;;96 Well Microplate;93;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;93;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;93;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;94;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;94;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;94;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;13;;2.0
+D;Output1;;96 Well Microplate;94;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;94;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;94;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;95;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;95;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;95;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;14;;2.0
+D;Output1;;96 Well Microplate;95;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;95;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;95;;4.0
+W;
+A;SetupPlate1;;96 Well Microplate;23;;2.0
+D;Output1;;96 Well Microplate;96;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;6;;2.0
+D;Output1;;96 Well Microplate;96;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;11;;2.0
+D;Output1;;96 Well Microplate;96;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;15;;2.0
+D;Output1;;96 Well Microplate;96;;2.0
+W;
+A;SetupPlate1;;96 Well Microplate;19;;2.0
+D;Output1;;96 Well Microplate;96;;2.0
+W;
+A;Reservoir;;Trough 100ml;1;8;4.0
+D;Output1;;96 Well Microplate;96;;4.0
+W;
