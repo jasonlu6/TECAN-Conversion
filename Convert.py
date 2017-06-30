@@ -35,6 +35,9 @@ import TecanConverter
 
 import itertools
 
+# turn the data into a CSV file (once the conversion has been completed)
+import csv
+
 class Convert():
     def conversion(self,script,echo):
         self.script = script
@@ -122,6 +125,13 @@ class EchoVals():
     # test
     # print("\t".join(mapGrid), end=" ")
 
+class openCSV():
+
+    def csvRead(self):
+        with open('JoVE_ECHO_Instructions_4-10-17.csv', newline='') as csvfile:
+            echoReader = csv.reader(csvfile,delimiter=',',quotechar='|')
+            for row in echoReader:
+                print(' '.join(row))
 
 
 def main():
@@ -132,4 +142,5 @@ def main():
     # print out the plate for now
     print(EchoVals.plate[1])
     print(EchoVals.plate[2])
+    openCSV.csvRead()
     main()
