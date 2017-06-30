@@ -1,0 +1,12 @@
+plate_name,Source Well,Dest Well,volume (in uL),Comments / Notes: ,,
+SetupPlate1,A1,H12,2,,,
+SetupPlate1,H12,A1,2,,,Color Commands:
+SetupPlate1,A1,A1,2,,,Red: Aspirate (A)
+SetupPlate1,A1,A1,2,,,Green: Dispense (D)
+SetupPlate1,H12,A1,2,,,
+SetupPlate1,A1,H12,2,,,
+SetupPlate1,A1,B4,2,,,
+SetupPlate1,A1,A1,2,,,
+SetupPlate1,H12,H12,2,,,
+SetupPlate1,A1,H12,2,,,
+SetupPlate1,A1,A1,4,,,
