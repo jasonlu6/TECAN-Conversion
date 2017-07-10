@@ -463,7 +463,7 @@ def main():
     asprate(1,1,2)
 
     print("Command 80: ")
-    dispense(1,6,)
+    dispense(1,6,2)
 
 main()
 
