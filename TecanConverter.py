@@ -6,17 +6,60 @@
 # Marliene Pavan (mapavan@bu.edu) (Supervisor / Senior Researcher at BU)
 # Luis Ortiz (lortiz15@bu.edu) (Graduate supervisor of TECAN / ECHO conversion)
 # Densmore CIDARLAB UROP Project #4 (WETLAB division)
+# Date: 6/28/2# File: TecanConverter.py
+# Author: Jason Lu (jasonlu6@bu.edu)
+# Collaborations:
+# Rohim Banerji (rohinb96@bu.edu) (Class of 2019 Fellow Undergraduate CE student)
+# Professor Douglas Densmore (dougd@bu.edu)
+# Marliene Pavan (mapavan@bu.edu) (Supervisor / Senior Researcher at BU)
+# Luis Ortiz (lortiz15@bu.edu) (Graduate supervisor of TECAN / ECHO conversion)
+# Densmore CIDARLAB UROP Project #4 (WETLAB division)
 # Date: 6/28/2017
 
 # imported packages: pyevo.py (with attribution to the original author)
 
 # This program is a simulation of a TECAN robot using TECAN instructions, and
-# through a middleware function convert(), will give out the instructions
+# through a middleware class Convert.py, will give out the instructions
 # of the simulation in ECHO format, which can then be used
 # as a source text file for Excel CSV format
 
 # attribution: MIT CSail Documentation of the PyEvo module:
 # http://people.csail.mit.edu/georgiou/pyevo/doc/
+
+# modification: now the program allows up to 100 TECAN commands
+# due to increase of capacity and memoization of tube tip numbers
+# in the Python list data structure
+
+# importing the python evo module
+# import pyevo
+# importing string library
+import string
+# import math library
+import math
+# from pyevoRobot import pyevo
+
+# class to store the amount of destination and source liquids
+class liquidClass():
+    # assume 500 uL for now for sourceLiquid
+    sourceLiquid = 500
+    # assume 0 uL for now for destLiquid
+    destLiquid = 0
+    # boolean to determine if the liquids are already used up
+017
+
+# imported packages: pyevo.py (with attribution to the original author)
+
+# This program is a simulation of a TECAN robot using TECAN instructions, and
+# through a middleware class Convert.py, will give out the instructions
+# of the simulation in ECHO format, which can then be used
+# as a source text file for Excel CSV format
+
+# attribution: MIT CSail Documentation of the PyEvo module:
+# http://people.csail.mit.edu/georgiou/pyevo/doc/
+
+# modification: now the program allows up to 100 TECAN commands
+# due to increase of capacity and memoization of tube tip numbers
+# in the Python list data structure
 
 # importing the python evo module
 # import pyevo
@@ -102,7 +145,7 @@ def pickUpTip(tipNumber, tip):
 def setBackTip(tipNumber, tip):
     # figure out the math behind tip and tip number
     # diff = float(tipNumber - tip + 1)
-    if tip < tipNumber:
+    if tip != 0:
         print("Set back tip " + str(tip) + " at DiTi number " + str(tipNumber))
     else:
         print("Do not pick up tip " + str(tip))
@@ -239,6 +282,188 @@ def main():
     print("TECAN Robot Shutting Down...")
     print("TECAN Robot JoVE Experiment Done!")
 
+    print("PART II of TECAN Robot: ")
+
+    # extension to 100th command (according to the procedure / discussion
+    # set out by Luis yesterday)
+
+    print("Command 22: ")
+    aspirate(1,20,2)
+
+    print("Command 23: ")
+    dispense(1,3,2)
+
+    print("Command 24: ")
+    wash(1,20)
+
+    print("Command 25: ")
+    aspirate(1,1,2)
+
+    print("Command 26: ")
+    dispense(1,3,2)
+
+    print("Command 27: ")
+    wash(1,1)
+
+    print("Command 28: ")
+    aspirate(1,9,2)
+
+    print("Command 29: ")
+    dispense(1,3,2)
+
+    print("Command 30: ")
+    wash(9,3)
+
+    print("Command 31: ")
+    aspirate(1,14,2)
+
+    print("Command 32: ")
+    aspirate(1,3,2)
+
+    print("Command 33:")
+    wash(14,3)
+
+    print("Command 34: ")
+    aspirate(1,16,2)
+
+    print("Command 35: ")
+    dispense(1,3,2)
+
+    print("Command 36: ")
+    wash(16,3)
+
+    print("Command 37: ")
+    print("Reservior command, robot does another task")
+
+    print("Command 38: ")
+    dispense(1,3,4)
+
+    print("Command 39: ")
+    wash(1,3)
+
+    print("Command 40: ")
+    aspirate(1,20,2)
+
+    print("Command 41: ")
+    dispense(1,4,2)
+
+    print("Command 42: ")
+    wash(20,4)
+
+    print("Command 43: ")
+    aspirate(1,1,2)
+
+    print("Command 44: ")
+    dispense(1,4,2)
+
+    print("Command 45: ")
+    wash(1,4)
+
+    print("Command 46: ")
+    aspirate(1,9,2)
+
+    print("Command 47: ")
+    dispense(1,4,2)
+
+    print("Command 48: ")
+    wash(9,4)
+
+    print("Command 49: ")
+    aspirate(1,15,2)
+
+    print("Command 50: ")
+    dispense(1,4,2)
+
+    print("Command 51: ")
+    wash(15,4)
+
+    print("Command 52: ")
+    aspirate(1,16,2)
+
+    print("Command 53: ")
+    dispense(1,4,2)
+
+    print("Command 54: ")
+    wash(16,4)
+
+    print("Command 55: ")
+    print("Reservior command, robot does another task")
+
+    print("Command 56: ")
+    dispense(1,4,4)
+
+    print("Command 57: ")
+    wash(1,4)
+
+    print("Command 58: ")
+    aspirate(1,20,2)
+
+    print("Command 59: ")
+    dispense(1,5,2)
+
+    print("Command 60: ")
+    wash(20,5)
+
+    print("Command 61: ")
+    aspirate(1,1,2)
+
+    print("Command 62: ")
+    dispense(1,5,2)
+
+    print("Command 63: ")
+    wash(1,5)
+
+    print("Command 64: ")
+    aspirate(1,10,2)
+
+    print("Command 65: ")
+    dispense(1,5,2)
+
+    print("Command 66: ")
+    wash(10,5)
+
+    print("Command 67: ")
+    aspirate(1,12,2)
+
+    print("Command 68: ")
+    dispense(1,5,2)
+
+    print("Command 69: ")
+    wash(12,5)
+
+    print("Command 70: ")
+    aspirate(1,16,2)
+
+    print("Command 71: ")
+    dispense(1,5,2)
+
+    print("Command 72: ")
+    wash(16,5)
+
+    print("Command 73: ")
+    print("Reservior command, robot does another task")
+
+    print("Command 74: ")
+    dispense(1,5,4)
+
+    print("Command 75: ")
+    # since no aspirate command was found
+    wash(5,0)
+
+    print("Command 76: ")
+    aspirate(1,20,2)
+
+    print("Command 77: ")
+    dispense(1,6,2)
+
+    print("Command 78: ")
+    wash(20,6)
+
+    print("Command 79: ")
+    asprate(1,1,2)
+
+    print("Command 80: ")
+    dispense(1,6,)
 
 main()
 

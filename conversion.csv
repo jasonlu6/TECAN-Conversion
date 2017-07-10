@@ -1,0 +1,26 @@
+A or D,plate_name,Source Well,Dest Well,volume (in uL),,,
+D,ReagentPlate1,N/A,A1,25,,,
+D,ReagentPlate1,N/A,A1,25,,,Color Commands:
+D,ReagentPlate1,N/A,A1,25,,,Red: Aspirate (A)
+A,SetupPlate1,A1,N/A,25,,,Green: Dispense (D)
+D,SetupPlate1,N/A,A1,25,,,Blue: Reagent [R]
+W,N/A,N/A,N/A,N/A,,,Black: Wash (W)
+A,SetupPlate1,D3,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,A2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,D2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,H2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+R,N/A,N/A,N/A,N/A,,,
+W,N/A,N/A,N/A,N/A,,,
+D,SetupPlate1,A1,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+,,,,,,,
+,,,,,,,
+,,,,(transfer),,,
