@@ -6,7 +6,46 @@
 # Marliene Pavan (mapavan@bu.edu) (Supervisor / Senior Researcher at BU)
 # Luis Ortiz (lortiz15@bu.edu) (Graduate supervisor of TECAN / ECHO conversion)
 # Densmore CIDARLAB UROP Project #4 (WETLAB division)
+# Date: 6/28/2# File: TecanConverter.py
+# Author: Jason Lu (jasonlu6@bu.edu)
+# Collaborations:
+# Rohim Banerji (rohinb96@bu.edu) (Class of 2019 Fellow Undergraduate CE student)
+# Professor Douglas Densmore (dougd@bu.edu)
+# Marliene Pavan (mapavan@bu.edu) (Supervisor / Senior Researcher at BU)
+# Luis Ortiz (lortiz15@bu.edu) (Graduate supervisor of TECAN / ECHO conversion)
+# Densmore CIDARLAB UROP Project #4 (WETLAB division)
 # Date: 6/28/2017
+
+# imported packages: pyevo.py (with attribution to the original author)
+
+# This program is a simulation of a TECAN robot using TECAN instructions, and
+# through a middleware class Convert.py, will give out the instructions
+# of the simulation in ECHO format, which can then be used
+# as a source text file for Excel CSV format
+
+# attribution: MIT CSail Documentation of the PyEvo module:
+# http://people.csail.mit.edu/georgiou/pyevo/doc/
+
+# modification: now the program allows up to 100 TECAN commands
+# due to increase of capacity and memoization of tube tip numbers
+# in the Python list data structure
+
+# importing the python evo module
+# import pyevo
+# importing string library
+import string
+# import math library
+import math
+# from pyevoRobot import pyevo
+
+# class to store the amount of destination and source liquids
+class liquidClass():
+    # assume 500 uL for now for sourceLiquid
+    sourceLiquid = 500
+    # assume 0 uL for now for destLiquid
+    destLiquid = 0
+    # boolean to determine if the liquids are already used up
+017
 
 # imported packages: pyevo.py (with attribution to the original author)
 
@@ -396,17 +435,35 @@ def main():
     aspirate(1,16,2)
 
     print("Command 71: ")
+    dispense(1,5,2)
 
+    print("Command 72: ")
+    wash(16,5)
 
+    print("Command 73: ")
+    print("Reservior command, robot does another task")
 
+    print("Command 74: ")
+    dispense(1,5,4)
 
+    print("Command 75: ")
+    # since no aspirate command was found
+    wash(5,0)
 
+    print("Command 76: ")
+    aspirate(1,20,2)
 
+    print("Command 77: ")
+    dispense(1,6,2)
 
+    print("Command 78: ")
+    wash(20,6)
 
+    print("Command 79: ")
+    asprate(1,1,2)
 
-
-
+    print("Command 80: ")
+    dispense(1,6,2)
 
 main()
 
