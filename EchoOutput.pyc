@@ -1,0 +1,79 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 26 2016, 10:47:25) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: /Users/jasonlu/Desktop/DAMPLAB/EchoConverter.py ==========
+Starting the TECAN robot: 
+A, or, D,plate_name,Source, Well,Dest, Well,volume, (in, uL),,,
+D,ReagentPlate1,N/A,A1,25,,,
+D,ReagentPlate1,N/A,A1,25,,,Color, Commands:
+D,ReagentPlate1,N/A,A1,25,,,Red:, Aspirate, (A)
+A,SetupPlate1,A1,N/A,25,,,Green:, Dispense, (D)
+D,SetupPlate1,N/A,A1,25,,,Blue:, Reagent, [R]
+W,N/A,N/A,N/A,N/A,,,Black:, Wash, (W)
+A,SetupPlate1,D3,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,A2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,D2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+A,SetupPlate1,H2,N/A,25,,,
+D,SetupPlate1,N/A,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+R,N/A,N/A,N/A,N/A,,,
+W,N/A,N/A,N/A,N/A,,,
+D,SetupPlate1,A1,A1,25,,,
+W,N/A,N/A,N/A,N/A,,,
+,,,,,,,
+,,,,,,,
+,,,,(transfer),,,
+<_io.TextIOWrapper name='conversion.csv' mode='r' encoding='US-ASCII'>
+Command 1: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and ReagentPlate will dispense amount of 25.0 uL of solution at source well A1
+Command 2: 
+TECAN robot unable to process.
+TECAN robot with well number 1 and ReagentPlate will dispense amount of 0.0 uL of solution at source well A1
+Command 3: 
+Transfer volume is:  25.0
+TECAN robot with well number 3 and ReagentPlate will dispense amount of 25.0 uL of solution at source well A1
+Command 4: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will aspirate amount of 25.0 uL of solution at source well A1
+Command 5: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will dispense amount of 25.0 uL of solution at source well A1
+Command 6: 
+TECAN first wash
+TECAN washing wells from 1 : 1
+Command 7 : 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will aspirate amount of 25.0 uL of solution at source well D3
+Command 8: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will dispense amount of 25.0 uL of solution at source well A1
+Command 9: 
+TECAN second wash
+Command 10: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will aspirate amount of 25.0 uL of solution at source well A2
+Command 11: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will dispense amount of 25.0 uL of solution at source well A1
+Command 12: 
+TECAN third wash
+TECAN washing wells from 1 : 1
+Command 13: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will aspirate amount of 25.0 uL of solution at source well D2
+Command 14: 
+Transfer volume is:  25.0
+TECAN robot with well number 1 and SetupPlate1 will dispense amount of 25.0 uL of solution at source well A1
+Command 15: 
+TECAN Final WASH!
+TECAN washing wells from 1 : 1
+TECAN robot shutting down...
+>>> 

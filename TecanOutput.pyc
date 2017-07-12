@@ -1,0 +1,730 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 26 2016, 10:47:25) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========= RESTART: /Users/jasonlu/Desktop/DAMPLAB/TecanConverter2.py =========
+Starting the TECAN robot: 
+Well used for the experiment:
+P96WellEppendorf
+Is the well free for reuse?
+False
+Command 1: 
+Dispensing from reagent plate 1 from 96 well to tips range(2, 34) with a volume of 6 uL.
+Command 2: 
+Dispensing from reagent plate 1 from 96 well to tips range(35, 67) with a volume of 6 uL.
+Command 3: 
+Dispensing from reagent plate 1 from 96 well to tips range(68, 96) with a volume of 6 uL.
+Command 4:
+TECAN robot with tip 1 will aspirate 2 uL at well 96
+Command 5: 
+TECAN robot with tip 1 will dispense 2 uL at well 96
+Command 6: 
+TECAN Robot First Wash
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+Pick up tip 20 at DiTi number range(1, 96)
+Pick up tip 21 at DiTi number range(1, 96)
+Pick up tip 22 at DiTi number range(1, 96)
+Pick up tip 23 at DiTi number range(1, 96)
+Pick up tip 24 at DiTi number range(1, 96)
+Pick up tip 25 at DiTi number range(1, 96)
+Pick up tip 26 at DiTi number range(1, 96)
+Pick up tip 27 at DiTi number range(1, 96)
+Pick up tip 28 at DiTi number range(1, 96)
+Pick up tip 29 at DiTi number range(1, 96)
+Pick up tip 30 at DiTi number range(1, 96)
+Pick up tip 31 at DiTi number range(1, 96)
+Pick up tip 32 at DiTi number range(1, 96)
+Pick up tip 33 at DiTi number range(1, 96)
+Pick up tip 34 at DiTi number range(1, 96)
+Pick up tip 35 at DiTi number range(1, 96)
+Pick up tip 36 at DiTi number range(1, 96)
+Pick up tip 37 at DiTi number range(1, 96)
+Pick up tip 38 at DiTi number range(1, 96)
+Pick up tip 39 at DiTi number range(1, 96)
+Pick up tip 40 at DiTi number range(1, 96)
+Pick up tip 41 at DiTi number range(1, 96)
+Pick up tip 42 at DiTi number range(1, 96)
+Pick up tip 43 at DiTi number range(1, 96)
+Pick up tip 44 at DiTi number range(1, 96)
+Pick up tip 45 at DiTi number range(1, 96)
+Pick up tip 46 at DiTi number range(1, 96)
+Pick up tip 47 at DiTi number range(1, 96)
+Pick up tip 48 at DiTi number range(1, 96)
+Pick up tip 49 at DiTi number range(1, 96)
+Pick up tip 50 at DiTi number range(1, 96)
+Pick up tip 51 at DiTi number range(1, 96)
+Pick up tip 52 at DiTi number range(1, 96)
+Pick up tip 53 at DiTi number range(1, 96)
+Pick up tip 54 at DiTi number range(1, 96)
+Pick up tip 55 at DiTi number range(1, 96)
+Pick up tip 56 at DiTi number range(1, 96)
+Pick up tip 57 at DiTi number range(1, 96)
+Pick up tip 58 at DiTi number range(1, 96)
+Pick up tip 59 at DiTi number range(1, 96)
+Pick up tip 60 at DiTi number range(1, 96)
+Pick up tip 61 at DiTi number range(1, 96)
+Pick up tip 62 at DiTi number range(1, 96)
+Pick up tip 63 at DiTi number range(1, 96)
+Pick up tip 64 at DiTi number range(1, 96)
+Pick up tip 65 at DiTi number range(1, 96)
+Pick up tip 66 at DiTi number range(1, 96)
+Pick up tip 67 at DiTi number range(1, 96)
+Pick up tip 68 at DiTi number range(1, 96)
+Pick up tip 69 at DiTi number range(1, 96)
+Pick up tip 70 at DiTi number range(1, 96)
+Pick up tip 71 at DiTi number range(1, 96)
+Pick up tip 72 at DiTi number range(1, 96)
+Pick up tip 73 at DiTi number range(1, 96)
+Pick up tip 74 at DiTi number range(1, 96)
+Pick up tip 75 at DiTi number range(1, 96)
+Pick up tip 76 at DiTi number range(1, 96)
+Pick up tip 77 at DiTi number range(1, 96)
+Pick up tip 78 at DiTi number range(1, 96)
+Pick up tip 79 at DiTi number range(1, 96)
+Pick up tip 80 at DiTi number range(1, 96)
+Pick up tip 81 at DiTi number range(1, 96)
+Pick up tip 82 at DiTi number range(1, 96)
+Pick up tip 83 at DiTi number range(1, 96)
+Pick up tip 84 at DiTi number range(1, 96)
+Pick up tip 85 at DiTi number range(1, 96)
+Pick up tip 86 at DiTi number range(1, 96)
+Pick up tip 87 at DiTi number range(1, 96)
+Pick up tip 88 at DiTi number range(1, 96)
+Pick up tip 89 at DiTi number range(1, 96)
+Pick up tip 90 at DiTi number range(1, 96)
+Pick up tip 91 at DiTi number range(1, 96)
+Pick up tip 92 at DiTi number range(1, 96)
+Pick up tip 93 at DiTi number range(1, 96)
+Pick up tip 94 at DiTi number range(1, 96)
+Pick up tip 95 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 7: 
+TECAN robot with tip 1 will aspirate 2 uL at well 1
+Command 8: 
+TECAN robot with tip 1 will dispense 2 uL at well 1
+Command 9: 
+TECAN Robot Second Wash
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 10: 
+TECAN robot with tip 96 will aspirate 2 uL at well 1
+Command 11: 
+TECAN robot with tip 96 will dispense 2 uL at well 1
+Command 12: 
+FIRST CLEAN WASH FROM ROBOT: 
+
+TECAN Robot Third Wash
+Do not pick up tip 0
+Set back tip 1 at DiTi number range(1, 96)
+Set back tip 2 at DiTi number range(1, 96)
+Set back tip 3 at DiTi number range(1, 96)
+Set back tip 4 at DiTi number range(1, 96)
+Set back tip 5 at DiTi number range(1, 96)
+Set back tip 6 at DiTi number range(1, 96)
+Set back tip 7 at DiTi number range(1, 96)
+Set back tip 8 at DiTi number range(1, 96)
+Set back tip 9 at DiTi number range(1, 96)
+Set back tip 10 at DiTi number range(1, 96)
+Set back tip 11 at DiTi number range(1, 96)
+Set back tip 12 at DiTi number range(1, 96)
+Set back tip 13 at DiTi number range(1, 96)
+Set back tip 14 at DiTi number range(1, 96)
+Set back tip 15 at DiTi number range(1, 96)
+Set back tip 16 at DiTi number range(1, 96)
+Set back tip 17 at DiTi number range(1, 96)
+Set back tip 18 at DiTi number range(1, 96)
+Set back tip 19 at DiTi number range(1, 96)
+Set back tip 20 at DiTi number range(1, 96)
+Set back tip 21 at DiTi number range(1, 96)
+Set back tip 22 at DiTi number range(1, 96)
+Set back tip 23 at DiTi number range(1, 96)
+Set back tip 24 at DiTi number range(1, 96)
+Set back tip 25 at DiTi number range(1, 96)
+Set back tip 26 at DiTi number range(1, 96)
+Set back tip 27 at DiTi number range(1, 96)
+Set back tip 28 at DiTi number range(1, 96)
+Set back tip 29 at DiTi number range(1, 96)
+Set back tip 30 at DiTi number range(1, 96)
+Set back tip 31 at DiTi number range(1, 96)
+Set back tip 32 at DiTi number range(1, 96)
+Set back tip 33 at DiTi number range(1, 96)
+Set back tip 34 at DiTi number range(1, 96)
+Set back tip 35 at DiTi number range(1, 96)
+Set back tip 36 at DiTi number range(1, 96)
+Set back tip 37 at DiTi number range(1, 96)
+Set back tip 38 at DiTi number range(1, 96)
+Set back tip 39 at DiTi number range(1, 96)
+Set back tip 40 at DiTi number range(1, 96)
+Set back tip 41 at DiTi number range(1, 96)
+Set back tip 42 at DiTi number range(1, 96)
+Set back tip 43 at DiTi number range(1, 96)
+Set back tip 44 at DiTi number range(1, 96)
+Set back tip 45 at DiTi number range(1, 96)
+Set back tip 46 at DiTi number range(1, 96)
+Set back tip 47 at DiTi number range(1, 96)
+Set back tip 48 at DiTi number range(1, 96)
+Set back tip 49 at DiTi number range(1, 96)
+Set back tip 50 at DiTi number range(1, 96)
+Set back tip 51 at DiTi number range(1, 96)
+Set back tip 52 at DiTi number range(1, 96)
+Set back tip 53 at DiTi number range(1, 96)
+Set back tip 54 at DiTi number range(1, 96)
+Set back tip 55 at DiTi number range(1, 96)
+Set back tip 56 at DiTi number range(1, 96)
+Set back tip 57 at DiTi number range(1, 96)
+Set back tip 58 at DiTi number range(1, 96)
+Set back tip 59 at DiTi number range(1, 96)
+Set back tip 60 at DiTi number range(1, 96)
+Set back tip 61 at DiTi number range(1, 96)
+Set back tip 62 at DiTi number range(1, 96)
+Set back tip 63 at DiTi number range(1, 96)
+Set back tip 64 at DiTi number range(1, 96)
+Set back tip 65 at DiTi number range(1, 96)
+Set back tip 66 at DiTi number range(1, 96)
+Set back tip 67 at DiTi number range(1, 96)
+Set back tip 68 at DiTi number range(1, 96)
+Set back tip 69 at DiTi number range(1, 96)
+Set back tip 70 at DiTi number range(1, 96)
+Set back tip 71 at DiTi number range(1, 96)
+Set back tip 72 at DiTi number range(1, 96)
+Set back tip 73 at DiTi number range(1, 96)
+Set back tip 74 at DiTi number range(1, 96)
+Set back tip 75 at DiTi number range(1, 96)
+Set back tip 76 at DiTi number range(1, 96)
+Set back tip 77 at DiTi number range(1, 96)
+Set back tip 78 at DiTi number range(1, 96)
+Set back tip 79 at DiTi number range(1, 96)
+Set back tip 80 at DiTi number range(1, 96)
+Set back tip 81 at DiTi number range(1, 96)
+Set back tip 82 at DiTi number range(1, 96)
+Set back tip 83 at DiTi number range(1, 96)
+Set back tip 84 at DiTi number range(1, 96)
+Set back tip 85 at DiTi number range(1, 96)
+Set back tip 86 at DiTi number range(1, 96)
+Set back tip 87 at DiTi number range(1, 96)
+Set back tip 88 at DiTi number range(1, 96)
+Set back tip 89 at DiTi number range(1, 96)
+Set back tip 90 at DiTi number range(1, 96)
+Set back tip 91 at DiTi number range(1, 96)
+Set back tip 92 at DiTi number range(1, 96)
+Set back tip 93 at DiTi number range(1, 96)
+Set back tip 94 at DiTi number range(1, 96)
+Set back tip 95 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 13: 
+TECAN robot with tip 1 will aspirate 2 uL at well 12
+Command 14: 
+TECAN robot with tip 1 will dispense 2 uL at well 1
+Command 15: 
+TECAN Robot Fourth Wash
+Do not pick up tip 0
+TECAN robot done washing
+Command 16: 
+TECAN robot with tip 96 will aspirate 2 uL at well 16
+Command 17: 
+TECAN robot with tip 1 will dispense 2 uL at well 96
+Command 18: 
+TECAN Robot Fifth Wash: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+Pick up tip 20 at DiTi number range(1, 96)
+Pick up tip 21 at DiTi number range(1, 96)
+Pick up tip 22 at DiTi number range(1, 96)
+Pick up tip 23 at DiTi number range(1, 96)
+Pick up tip 24 at DiTi number range(1, 96)
+Pick up tip 25 at DiTi number range(1, 96)
+Pick up tip 26 at DiTi number range(1, 96)
+Pick up tip 27 at DiTi number range(1, 96)
+Pick up tip 28 at DiTi number range(1, 96)
+Pick up tip 29 at DiTi number range(1, 96)
+Pick up tip 30 at DiTi number range(1, 96)
+Pick up tip 31 at DiTi number range(1, 96)
+Pick up tip 32 at DiTi number range(1, 96)
+Pick up tip 33 at DiTi number range(1, 96)
+Pick up tip 34 at DiTi number range(1, 96)
+Pick up tip 35 at DiTi number range(1, 96)
+Pick up tip 36 at DiTi number range(1, 96)
+Pick up tip 37 at DiTi number range(1, 96)
+Pick up tip 38 at DiTi number range(1, 96)
+Pick up tip 39 at DiTi number range(1, 96)
+Pick up tip 40 at DiTi number range(1, 96)
+Pick up tip 41 at DiTi number range(1, 96)
+Pick up tip 42 at DiTi number range(1, 96)
+Pick up tip 43 at DiTi number range(1, 96)
+Pick up tip 44 at DiTi number range(1, 96)
+Pick up tip 45 at DiTi number range(1, 96)
+Pick up tip 46 at DiTi number range(1, 96)
+Pick up tip 47 at DiTi number range(1, 96)
+Pick up tip 48 at DiTi number range(1, 96)
+Pick up tip 49 at DiTi number range(1, 96)
+Pick up tip 50 at DiTi number range(1, 96)
+Pick up tip 51 at DiTi number range(1, 96)
+Pick up tip 52 at DiTi number range(1, 96)
+Pick up tip 53 at DiTi number range(1, 96)
+Pick up tip 54 at DiTi number range(1, 96)
+Pick up tip 55 at DiTi number range(1, 96)
+Pick up tip 56 at DiTi number range(1, 96)
+Pick up tip 57 at DiTi number range(1, 96)
+Pick up tip 58 at DiTi number range(1, 96)
+Pick up tip 59 at DiTi number range(1, 96)
+Pick up tip 60 at DiTi number range(1, 96)
+Pick up tip 61 at DiTi number range(1, 96)
+Pick up tip 62 at DiTi number range(1, 96)
+Pick up tip 63 at DiTi number range(1, 96)
+Pick up tip 64 at DiTi number range(1, 96)
+Pick up tip 65 at DiTi number range(1, 96)
+Pick up tip 66 at DiTi number range(1, 96)
+Pick up tip 67 at DiTi number range(1, 96)
+Pick up tip 68 at DiTi number range(1, 96)
+Pick up tip 69 at DiTi number range(1, 96)
+Pick up tip 70 at DiTi number range(1, 96)
+Pick up tip 71 at DiTi number range(1, 96)
+Pick up tip 72 at DiTi number range(1, 96)
+Pick up tip 73 at DiTi number range(1, 96)
+Pick up tip 74 at DiTi number range(1, 96)
+Pick up tip 75 at DiTi number range(1, 96)
+Pick up tip 76 at DiTi number range(1, 96)
+Pick up tip 77 at DiTi number range(1, 96)
+Pick up tip 78 at DiTi number range(1, 96)
+Pick up tip 79 at DiTi number range(1, 96)
+Pick up tip 80 at DiTi number range(1, 96)
+Pick up tip 81 at DiTi number range(1, 96)
+Pick up tip 82 at DiTi number range(1, 96)
+Pick up tip 83 at DiTi number range(1, 96)
+Pick up tip 84 at DiTi number range(1, 96)
+Pick up tip 85 at DiTi number range(1, 96)
+Pick up tip 86 at DiTi number range(1, 96)
+Pick up tip 87 at DiTi number range(1, 96)
+Pick up tip 88 at DiTi number range(1, 96)
+Pick up tip 89 at DiTi number range(1, 96)
+Pick up tip 90 at DiTi number range(1, 96)
+Pick up tip 91 at DiTi number range(1, 96)
+Pick up tip 92 at DiTi number range(1, 96)
+Pick up tip 93 at DiTi number range(1, 96)
+Pick up tip 94 at DiTi number range(1, 96)
+Pick up tip 95 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 19: 
+Reservior command, robot does another task
+Command 20: 
+TECAN robot with tip 1 will dispense 4 uL at well 1
+Command 21: 
+
+FINAL WASH :-)
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+Pick up tip 20 at DiTi number range(1, 96)
+Pick up tip 21 at DiTi number range(1, 96)
+Pick up tip 22 at DiTi number range(1, 96)
+Pick up tip 23 at DiTi number range(1, 96)
+Pick up tip 24 at DiTi number range(1, 96)
+Pick up tip 25 at DiTi number range(1, 96)
+Pick up tip 26 at DiTi number range(1, 96)
+Pick up tip 27 at DiTi number range(1, 96)
+Pick up tip 28 at DiTi number range(1, 96)
+Pick up tip 29 at DiTi number range(1, 96)
+Pick up tip 30 at DiTi number range(1, 96)
+Pick up tip 31 at DiTi number range(1, 96)
+Pick up tip 32 at DiTi number range(1, 96)
+Pick up tip 33 at DiTi number range(1, 96)
+Pick up tip 34 at DiTi number range(1, 96)
+Pick up tip 35 at DiTi number range(1, 96)
+Pick up tip 36 at DiTi number range(1, 96)
+Pick up tip 37 at DiTi number range(1, 96)
+Pick up tip 38 at DiTi number range(1, 96)
+Pick up tip 39 at DiTi number range(1, 96)
+Pick up tip 40 at DiTi number range(1, 96)
+Pick up tip 41 at DiTi number range(1, 96)
+Pick up tip 42 at DiTi number range(1, 96)
+Pick up tip 43 at DiTi number range(1, 96)
+Pick up tip 44 at DiTi number range(1, 96)
+Pick up tip 45 at DiTi number range(1, 96)
+Pick up tip 46 at DiTi number range(1, 96)
+Pick up tip 47 at DiTi number range(1, 96)
+Pick up tip 48 at DiTi number range(1, 96)
+Pick up tip 49 at DiTi number range(1, 96)
+Pick up tip 50 at DiTi number range(1, 96)
+Pick up tip 51 at DiTi number range(1, 96)
+Pick up tip 52 at DiTi number range(1, 96)
+Pick up tip 53 at DiTi number range(1, 96)
+Pick up tip 54 at DiTi number range(1, 96)
+Pick up tip 55 at DiTi number range(1, 96)
+Pick up tip 56 at DiTi number range(1, 96)
+Pick up tip 57 at DiTi number range(1, 96)
+Pick up tip 58 at DiTi number range(1, 96)
+Pick up tip 59 at DiTi number range(1, 96)
+Pick up tip 60 at DiTi number range(1, 96)
+Pick up tip 61 at DiTi number range(1, 96)
+Pick up tip 62 at DiTi number range(1, 96)
+Pick up tip 63 at DiTi number range(1, 96)
+Pick up tip 64 at DiTi number range(1, 96)
+Pick up tip 65 at DiTi number range(1, 96)
+Pick up tip 66 at DiTi number range(1, 96)
+Pick up tip 67 at DiTi number range(1, 96)
+Pick up tip 68 at DiTi number range(1, 96)
+Pick up tip 69 at DiTi number range(1, 96)
+Pick up tip 70 at DiTi number range(1, 96)
+Pick up tip 71 at DiTi number range(1, 96)
+Pick up tip 72 at DiTi number range(1, 96)
+Pick up tip 73 at DiTi number range(1, 96)
+Pick up tip 74 at DiTi number range(1, 96)
+Pick up tip 75 at DiTi number range(1, 96)
+Pick up tip 76 at DiTi number range(1, 96)
+Pick up tip 77 at DiTi number range(1, 96)
+Pick up tip 78 at DiTi number range(1, 96)
+Pick up tip 79 at DiTi number range(1, 96)
+Pick up tip 80 at DiTi number range(1, 96)
+Pick up tip 81 at DiTi number range(1, 96)
+Pick up tip 82 at DiTi number range(1, 96)
+Pick up tip 83 at DiTi number range(1, 96)
+Pick up tip 84 at DiTi number range(1, 96)
+Pick up tip 85 at DiTi number range(1, 96)
+Pick up tip 86 at DiTi number range(1, 96)
+Pick up tip 87 at DiTi number range(1, 96)
+Pick up tip 88 at DiTi number range(1, 96)
+Pick up tip 89 at DiTi number range(1, 96)
+Pick up tip 90 at DiTi number range(1, 96)
+Pick up tip 91 at DiTi number range(1, 96)
+Pick up tip 92 at DiTi number range(1, 96)
+Pick up tip 93 at DiTi number range(1, 96)
+Pick up tip 94 at DiTi number range(1, 96)
+Pick up tip 95 at DiTi number range(1, 96)
+TECAN robot done washing
+TECAN Robot Shutting Down...
+TECAN Robot JoVE Experiment Done!
+PART II of TECAN Robot: 
+Command 22: 
+TECAN robot with tip 1 will aspirate 2 uL at well 20
+Command 23: 
+TECAN robot with tip 1 will dispense 2 uL at well 3
+Command 24: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 25: 
+TECAN robot with tip 1 will aspirate 2 uL at well 1
+Command 26: 
+TECAN robot with tip 1 will dispense 2 uL at well 3
+Command 27: 
+Do not pick up tip 0
+TECAN robot done washing
+Command 28: 
+TECAN robot with tip 1 will aspirate 2 uL at well 9
+Command 29: 
+TECAN robot with tip 1 will dispense 2 uL at well 3
+Command 30: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 31: 
+TECAN robot with tip 1 will aspirate 2 uL at well 14
+Command 32: 
+TECAN robot with tip 1 will aspirate 2 uL at well 3
+Command 33:
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 34: 
+TECAN robot with tip 1 will aspirate 2 uL at well 16
+Command 35: 
+TECAN robot with tip 1 will dispense 2 uL at well 3
+Command 36: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 37: 
+Reservior command, robot does another task
+Command 38: 
+TECAN robot with tip 1 will dispense 4 uL at well 3
+Command 39: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 40: 
+TECAN robot with tip 1 will aspirate 2 uL at well 20
+Command 41: 
+TECAN robot with tip 1 will dispense 2 uL at well 4
+Command 42: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 43: 
+TECAN robot with tip 1 will aspirate 2 uL at well 1
+Command 44: 
+TECAN robot with tip 1 will dispense 2 uL at well 4
+Command 45: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 46: 
+TECAN robot with tip 1 will aspirate 2 uL at well 9
+Command 47: 
+TECAN robot with tip 1 will dispense 2 uL at well 4
+Command 48: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 49: 
+TECAN robot with tip 1 will aspirate 2 uL at well 15
+Command 50: 
+TECAN robot with tip 1 will dispense 2 uL at well 4
+Command 51: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 52: 
+TECAN robot with tip 1 will aspirate 2 uL at well 16
+Command 53: 
+TECAN robot with tip 1 will dispense 2 uL at well 4
+Command 54: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 55: 
+Reservior command, robot does another task
+Command 56: 
+TECAN robot with tip 1 will dispense 4 uL at well 4
+Command 57: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 58: 
+TECAN robot with tip 1 will aspirate 2 uL at well 20
+Command 59: 
+TECAN robot with tip 1 will dispense 2 uL at well 5
+Command 60: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+Pick up tip 12 at DiTi number range(1, 96)
+Pick up tip 13 at DiTi number range(1, 96)
+Pick up tip 14 at DiTi number range(1, 96)
+Pick up tip 15 at DiTi number range(1, 96)
+Pick up tip 16 at DiTi number range(1, 96)
+Pick up tip 17 at DiTi number range(1, 96)
+Pick up tip 18 at DiTi number range(1, 96)
+Pick up tip 19 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 61: 
+TECAN robot with tip 1 will aspirate 2 uL at well 1
+Command 62: 
+TECAN robot with tip 1 will dispense 2 uL at well 5
+Command 63: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 64: 
+TECAN robot with tip 1 will aspirate 2 uL at well 10
+Command 65: 
+TECAN robot with tip 1 will dispense 2 uL at well 5
+Command 66: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 67: 
+TECAN robot with tip 1 will aspirate 2 uL at well 12
+Command 68: 
+TECAN robot with tip 1 will dispense 2 uL at well 5
+Command 69: 
+Do not pick up tip 0
+Pick up tip 1 at DiTi number range(1, 96)
+Pick up tip 2 at DiTi number range(1, 96)
+Pick up tip 3 at DiTi number range(1, 96)
+Pick up tip 4 at DiTi number range(1, 96)
+Pick up tip 5 at DiTi number range(1, 96)
+Pick up tip 6 at DiTi number range(1, 96)
+Pick up tip 7 at DiTi number range(1, 96)
+Pick up tip 8 at DiTi number range(1, 96)
+Pick up tip 9 at DiTi number range(1, 96)
+Pick up tip 10 at DiTi number range(1, 96)
+Pick up tip 11 at DiTi number range(1, 96)
+TECAN robot done washing
+Command 70: 
+TECAN robot with tip 1 will aspirate 2 uL at well 16
+Command 71: 
+End Tecan Conversion.
+>>> 
