@@ -1,0 +1,95 @@
+@CHARSET "ISO-8859-1";
+
+/* style.css */
+/* Description: Helper function file that will store the CSS required for 
+MoClo / Gibson Storage Webpage */
+/* Author: Jason Lu (jasonlu6@bu.edu) */
+/* Date: 7/12/2017 */
+
+/* main body of the CSS file */
+body 
+{
+	/* make it a little cooler, like blue */
+	background-color: #cddcec;
+	font-family:"Sans-Serif";
+	font-size: 12px;
+}
+
+div#container
+{
+	/* popup-size, around 500 pixels */
+	width: 500px;
+	/* margin should be a little bigger */
+	margin: 1px auto;
+	border: 1px solid; 
+	/* cyan background */
+	background-color:cyan;
+}
+
+div#container header1{
+	/* another color */
+	background-color: #fffccc;
+	margin: 1px;
+	padding: 8px;
+	font-familt: "Sans-Serif";
+	
+	/* make the font more prominent to user */
+	font-weight: bold;
+	/* bluish border */
+	border: 1px solid #3564a9;
+}
+
+div#container fieldset{
+	/* wider margin */
+	margin: 30 px;
+	border: 1px solid 
+}
+
+/* repository labels */
+ul#uploads {
+	/* no list style type, yet */
+	list-style-type: none;
+	margin: 2px;
+	padding: 0px;
+}
+
+/* additional repository labels */
+ul#uploads li {
+	float: left;
+	margin: 4px;
+}
+
+/* activate the menu page */
+ul#uploads li.active {
+	/* background color */
+	background-color: #98b9d0;
+	/* border colors */
+	border-left: 1px solid #3564a9;
+	border-top: 1px solid #3564a9;
+	border-bottom: 1px solid #e6eef6;
+	border-right: 1px solid #e6eef6;
+}
+
+/* activate the action page */
+ul#uploads li a{
+	/* no decoration needed*/
+	text-decoration: none;
+	font-size: 12px;
+	padding: 2px;
+	color: #3564a9;
+}
+
+/* files CSS coloration */
+ul#files {
+	list-style-type: none;
+	margin: 40px 0px 0px 0 px;
+	padding: 0px;
+}
+
+/* background color for the files */
+ul#files li{
+	background-color: #fff7c0;
+	border-bottom: 1px solid #efefef;
+	padding: 2px;
+	margin-bottom: 1px;
+}
