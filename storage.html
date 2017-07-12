@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Online File Storage</title>
+</head>
+<body>
+
+<!-- File: storage.html -->
+<!-- Author: Jason Lu (jasonlu6@bu.edu) -->
+<!-- Dates: 7/5/2017 - 7/10/2017 -->
+
+<!-- Outside sources: -->
+<!-- Building the storage / restore function for the files -->
+<!-- https://code.tutsplus.com/tutorials/online-file-storage-with-php--net-5818 -->
+
+<!-- used in conjunction with CSS,JS embedded within inside -->
+
+<!-- Densmore CIDAR LAB -->
+<!-- UROP Project 3 -->
+
+<!-- Collaborators: -->
+<!-- Rohin Banerji (rohinb96@bu.edu) -->
+<!-- Marliene Pavan (mapavan@bu.edu) -->
+<!-- Doug Densmore (dougd@bu.edu) -->
+
+<!-- adding the file upload form -->
+<!-- you can also remove the file if necessary (deep copy) -->
+
+<div id="storage">
+	<h1>CIDAR MoClo/Gibson File Storage: </h1>
+	
+	<fieldset>
+		<legend>Add a new file to the storage: </legend>
+		<form method="post" action="index.php" enctype="multipart/form-data">
+		
+		<!-- Maximum size for the user to upload the file -->
+		<input type="hidden" name="Maximum File Size" value="100000">
+		<p><label for="name">Upload File: </label><br />
+		<input type="file" name="file" /></p>
+		
+		<!-- ask the user for a password (if necessary) -->
+		<p><label for="password">Password for upload/download: </label><br />
+		
+		<!-- upload / submit button  -->
+		<p><input type="submit" name="submit" value="Upload" /></p>
+		</form>
+	</fieldset>
+</div>
+
+
+<!-- whitespace -->
+<br></br>
+<br></br>
+
+<!-- A place to store the files (file repository) -->
+<h2 style="background-color:green">File Repository: </h2>
+<fieldset>
+	<legend>Previously Uploaded Files: </legend>
+	<ul id="uploads">
+		<!-- all files uploaded -->
+		<li><a href="">All files</a></li>
+		<!-- All CSV files uploaded -->
+		<li><a href="">CSV</a></li>
+		<!-- All Gibson Files uploaded -->
+		<li><a href="">Gibson Assembly</a></li>
+		<!-- Images (JPG) uploaded: -->
+		<li><a href="">Images</a></li>
+		<!-- Other files uploaded -->
+		<li><a href="other">Other Files</a></li>
+	</ul>
+	
+	<ul id="files">
+	</ul>
+</fieldset>
+
+<!-- whitespace -->
+<br></br>
+<br></br>
+
+<!-- A place to download the files (file downloads) -->
+<h3 style="background-color:yellow">File Downloads: </h3>
+
+<p>Click on the following files to download:</p>
+<fieldset>
+	<legend>Download Files: </legend>
+	<ul id="downloads">
+		<!-- all files download -->
+		<li><a href="">All files</a></li>
+		<!-- CSV file download -->
+		<li><a href="">CSV</a></li>
+		<!-- Gibson file download -->
+		<li><a href="">Gibson Assembly</a></li>
+		<!-- Other files download: -->
+		<li><a href=other">Other Files</a></li>
+	</ul>
+	
+	<ul id="files">
+	</ul>
+</fieldset>
+
+<!-- Source For the HTML Download Reference: -->
+<!-- https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_a_download -->
+
+<!-- download the LCP logo -->
+<p>Download LCP Logo:</p>
+
+<a href="lcp.png" download>
+<img border="0" src="ClothoUIStarter/WebContent/lcp.png" alt="LCP Logo"
+width="104" height="142">
+</a>
+
+<!-- download JoVE TECAN instructions (word document) -->
+<p>Download JoVE TECAN Word Document:</p>
+
+<a href="JoVE_TECAN_Instructions_4-10-17.gwl.docx" download>
+<img border="0" src="/ClothoUIStarter/WebContent/JoVE_TECAN_Instructions_4-10-17.gwl.docx" alt="JoVE Article 1">
+</a>
+
+<!-- download JoVE ECHO instructions (CSV file) -->
+<p>Download JoVE ECHO CSV / Excel File: </p>
+<a href="JoVE_ECHO_Instructions_4-10-17.csv" download>
+<img border="0" src="/ClothoUIStarter/WebContent/JoVE_ECHO_Instructions_4-10-17.csv" alt="JoVE Article 2">
+</a>
+
+
+<!--  restore / update button to previously used version -->
+
+<!-- Embed some CSS (maybe some JQuery if requires refreshing page) -->
+<style type="text/css" media="all">
+	/* importing the css file style.css from css repository */
+	@import url("style/style.css")
+</style>
+<!-- does the JScript even work?! -->
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+</body>
+</html>
