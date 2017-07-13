@@ -45,7 +45,6 @@ class liquidClass():
     # assume 0 uL for now for destLiquid
     destLiquid = 0
     # boolean to determine if the liquids are already used up
-017
 
 # imported packages: pyevo.py (with attribution to the original author)
 
