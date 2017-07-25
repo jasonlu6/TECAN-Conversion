@@ -1,0 +1,319 @@
+Last login: Tue Jul 25 09:52:41 on console
+dhcp-wifi-8021x-155-41-54-15:~ jasonlu$ ls
+Applications		Library			Pictures
+Desktop			Movies			Public
+Documents		Music			PycharmProjects
+Downloads		NetBeansProjects	Undergrad Research
+Justinmind		PhpstormProjects	eclipse
+dhcp-wifi-8021x-155-41-54-15:~ jasonlu$ cd Desktop
+dhcp-wifi-8021x-155-41-54-15:Desktop jasonlu$ ls
+CS 410
+CS 455
+DAMPLAB
+GAI E-Board 2017-2018
+GRE Prep
+Grad Admissions
+Internship
+Interview
+JScript Toy Programs
+JetBrains Toolbox.app
+JoVE_TECAN_Instructions_4-10-17.gwl.docx
+Manual Freedom EVOware 2.3 Research Use Only copy.pdf
+Road Test 
+STEM_Pathways_Student_Photo_Release.pdf
+UROP-Spring-Framework-
+Undergrad Research
+apache-maven-3.5.0
+communication_build.csv
+robots
+stempathwaysreleaseform.pdf
+dhcp-wifi-8021x-155-41-54-15:Desktop jasonlu$ cd DAMPLAB/
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ ls
+AquariumUpdate.pptx
+Convert copy.py
+Convert.py
+Convert2_testing.py
+DAMP_WetLab_Meeting_June12th17.pptx
+DampMeeting1.pages
+EchoConverter.py
+EchoOutput.pyc
+Flowchart for the TECAN ↔ ECHO Conversion.docx
+Flowchart for the TECAN ↔ ECHO Conversion.pdf
+ICE
+JoVE paper.pdf
+JoVE_ECHO_Instructions_4-10-17.csv
+JoVE_TECAN_Instructions_4-10-17.gwl.docx
+JoVE_TECAN_Instructions_4-10-17.gwl.txt
+LCR_assembly information - oligo_pcr_fwd-rev_primers_-_2017-05-15.csv
+Manual Freedom EVOware 2.3 Research Use Only.pdf
+Manual_for_Tecan_Evo_150_fully_automated_system.pdf
+MaryMeeting1.pages
+NWCalculations.docx
+NWCalculations.pdf
+NWExample.png
+Needleman-Wunsch Algorithm-Arrows.xls
+NeedlemanWunsch.docx
+NeedlemanWunsch.py
+PrepMeetingNotes.pages
+RSM_GA_LCR_discussion_061217.pptx
+RecombinaseRohinProjectFlowchart.docx
+RecombinaseRohinProjectFlowchart.pdf
+SGI-GA Assembly Calculations - Sheet1.csv
+Spheres of Fields for Bioinformatics.docx
+Summer Pathways Agenda 2.docx
+SummerPathways.docx
+SummerPathwaysAgenda.pdf
+SummerPathwaysBrainstorm.pages
+TECAN Conversion to ECHO.docx
+TecanConverter.py
+TecanConverter2.py
+TecanConverter3.py
+TecanOutput.pyc
+TecanOutput.pyc.rtf
+TecanScriptOutput.py
+Terminal Saved Output.txt
+WMlatestCurriculum.pdf
+WetLabMeeting1.pages
+__pycache__
+a.csv
+abc.py
+aspirate.csv
+aspirate_draft.csv
+attachment.txt
+benchling.png
+bootstrap_recombinase_mockup.docx
+bootstrap_recombinase_mockup.pdf
+build_communation.db
+build_communication.db..sqbpro
+c0080_cd.gb
+communication_build.csv
+communication_build.csv.xlsx
+communication_build.xlsx
+completealignment.txt
+conversion.csv
+conversion_ECHO_output.csv
+debug.py
+debug2.py
+dispense.csv
+dispense_draft.csv
+echo_converter.py
+echo_output.txt
+eggs.csv
+email.py
+excelManip copy.py
+final_conversion.py
+fulloutput.pyc
+hectorScript.rtf
+jove.txt
+jove_aspirate
+jove_aspirate.csv
+jove_aspirate2.csv
+jove_attempt.csv
+jove_dispense.csv
+jove_dispense2.csv
+jove_output.csv
+jove_output2.csv
+jove_output3.csv
+jove_output_temp.csv
+jove_output_temp2.csv
+jove_output_temp3.csv
+lcp.png
+meeting2-jason.backup.pptx
+meeting2-jason.pptx
+meeting2b-jason.pptx
+out.csv
+out2.csv
+pipette.png
+proofs_of_induction.pdf
+seq1.png
+seq2.png
+seq3.png
+seq4.png
+seq5.png
+seq6.png
+tecan_converter.py
+tecan_converter2.py
+tecanmessenger.py
+tecanoutput3.txt
+tmp
+totalseq1.png
+totalseq2.png
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ mime
+-bash: mime: command not found
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python --version
+Python 2.7.12
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python -m pip install email
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 163, in _run_module_as_main
+    mod_name, _Error)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 111, in _get_module_details
+    __import__(mod_name)  # Do not catch exceptions initializing package
+  File "/Library/Python/2.7/site-packages/pip/__init__.py", line 21, in <module>
+    from pip._vendor.requests.packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/__init__.py", line 62, in <module>
+    from .packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/packages/__init__.py", line 29, in <module>
+    import urllib3
+ImportError: No module named urllib3
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python -m pip install urllib3
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 163, in _run_module_as_main
+    mod_name, _Error)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 111, in _get_module_details
+    __import__(mod_name)  # Do not catch exceptions initializing package
+  File "/Library/Python/2.7/site-packages/pip/__init__.py", line 21, in <module>
+    from pip._vendor.requests.packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/__init__.py", line 62, in <module>
+    from .packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/packages/__init__.py", line 29, in <module>
+    import urllib3
+ImportError: No module named urllib3
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python3.5 -m pip install email
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/runpy.py", line 174, in _run_module_as_main
+    mod_name, mod_spec, code = _get_module_details(mod_name, _Error)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/runpy.py", line 133, in _get_module_details
+    return _get_module_details(pkg_main_name, error)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/runpy.py", line 109, in _get_module_details
+    __import__(pkg_name)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/pip/__init__.py", line 14, in <module>
+    from pip.utils import get_installed_distributions, get_prog
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/pip/utils/__init__.py", line 23, in <module>
+    from pip.locations import (
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/pip/locations.py", line 10, in <module>
+    from distutils.command.install import install, SCHEME_KEYS  # noqa
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/distutils/command/install.py", line 9, in <module>
+    from distutils.core import Command
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/distutils/core.py", line 16, in <module>
+    from distutils.dist import Distribution
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/distutils/dist.py", line 10, in <module>
+    from email import message_from_file
+  File "/Users/jasonlu/Desktop/DAMPLAB/email.py", line 34, in <module>
+    import smtplib
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/smtplib.py", line 47, in <module>
+    import email.utils
+ImportError: No module named 'email.utils'; 'email' is not a package
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python -m pip install urllib3
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 163, in _run_module_as_main
+    mod_name, _Error)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 111, in _get_module_details
+    __import__(mod_name)  # Do not catch exceptions initializing package
+  File "/Library/Python/2.7/site-packages/pip/__init__.py", line 21, in <module>
+    from pip._vendor.requests.packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/__init__.py", line 62, in <module>
+    from .packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/packages/__init__.py", line 29, in <module>
+    import urllib3
+ImportError: No module named urllib3
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ which python
+/Library/Frameworks/Python.framework/Versions/2.7/bin/python
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python -m pip install email
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 163, in _run_module_as_main
+    mod_name, _Error)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/runpy.py", line 111, in _get_module_details
+    __import__(mod_name)  # Do not catch exceptions initializing package
+  File "/Library/Python/2.7/site-packages/pip/__init__.py", line 21, in <module>
+    from pip._vendor.requests.packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/__init__.py", line 62, in <module>
+    from .packages.urllib3.exceptions import DependencyWarning
+  File "/Library/Python/2.7/site-packages/pip/_vendor/requests/packages/__init__.py", line 29, in <module>
+    import urllib3
+ImportError: No module named urllib3
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ cd ..
+dhcp-wifi-8021x-155-41-54-15:Desktop jasonlu$ cd ..
+dhcp-wifi-8021x-155-41-54-15:~ jasonlu$ python -m pip install email
+Collecting email
+  Downloading email-4.0.2.tar.gz (1.2MB)
+    100% |████████████████████████████████| 1.2MB 914kB/s 
+Installing collected packages: email
+  Running setup.py install for email ... done
+Successfully installed email-4.0.2
+dhcp-wifi-8021x-155-41-54-15:~ jasonlu$ ls
+Applications		Library			Pictures
+Desktop			Movies			Public
+Documents		Music			PycharmProjects
+Downloads		NetBeansProjects	Undergrad Research
+Justinmind		PhpstormProjects	eclipse
+dhcp-wifi-8021x-155-41-54-15:~ jasonlu$ cd Desktop
+dhcp-wifi-8021x-155-41-54-15:Desktop jasonlu$ ls
+CS 410
+CS 455
+DAMPLAB
+GAI E-Board 2017-2018
+GRE Prep
+Grad Admissions
+Internship
+Interview
+JScript Toy Programs
+JetBrains Toolbox.app
+JoVE_TECAN_Instructions_4-10-17.gwl.docx
+Manual Freedom EVOware 2.3 Research Use Only copy.pdf
+Road Test 
+STEM_Pathways_Student_Photo_Release.pdf
+UROP-Spring-Framework-
+Undergrad Research
+apache-maven-3.5.0
+communication_build.csv
+robots
+stempathwaysreleaseform.pdf
+dhcp-wifi-8021x-155-41-54-15:Desktop jasonlu$ cd DAMPLAB/
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vi
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vi tmp
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vim python_email.py
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python python_email.py
+Something went wrong...
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vim python_email.py
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python python_email.py
+Email sent!
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vim python_email.py
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ python python_email.py
+Email sent!
+dhcp-wifi-8021x-155-41-54-15:DAMPLAB jasonlu$ vim python_email.py
+
+import smtplib
+
+gmail_user = 'tecanserver@gmail.com'
+gmail_password = 'mybro543212345'
+
+sent_from = gmail_user
+to = ['chrizrodz@gmail.com']
+subject = 'TEST'
+body = 'TECAN TEST'
+
+message = 'Subject: {}\n\n{}'.format(subject,body)
+
+server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+server.ehlo()
+server.login(gmail_user, gmail_password)
+server.sendmail(sent_from, to, message)
+server.close()
+print('Email sent!')
+
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"python_email.py" 21L, 422C written

@@ -6,7 +6,7 @@
 # Marliene Pavan (mapavan@bu.edu) (Supervisor / Senior Researcher at BU)
 # Luis Ortiz (lortiz15@bu.edu) (Graduate supervisor of TECAN / ECHO conversion)
 # Densmore CIDARLAB UROP Project #4 (WETLAB division)
-# Date: 7/13/2017
+# Date: 7/13/2017 - 8/11/2017 
 
 # Description: first of the many "error-checking" deliverables for
 # the TECAN to ECHO conversion. Will catch the most generic systematic,
@@ -19,6 +19,10 @@
 ''' 7/13/2017: make sure that the TECAN robot simulator can catch
 the exceptions in a regular manner (purposely try some error-raising commands
 in the aspirate and dispense commands)'''
+
+''' 7/25/2017: connect to the email.py and tecanconnect.py (or another programming language form)
+in order to allow the TECAN robot to directly show / email to the user(s) via a text message / email
+exactly to the user(s) what is the error, and how to diagnose it, and potential solutions'''
 
 '''Not an extensive list of errors / handling, best consult the manual'''
 
@@ -79,7 +83,7 @@ class TecanErrors(Exception):
 # how to print out the Python traceback script? 
 
 # reservior exception class 
-class ReserviorExceptions(Exception):
+class ReserviorException(Exception):
     pass
     # first error to raise
 # raise ReserviorExceptions("TECAN robot reservior has run out! Please refill.")
@@ -103,7 +107,7 @@ print("TECAN robot destination well not defined.")
 class LiquidDetectionError(Exception):
     pass
 raise LiquidDetectionError('''TECAN DiTi Script Sample as no liquid or not enough
-liquid in the reservior''')
+liquid in the reservior''')aqz
 
 class ClotError(Exception):
     pass
@@ -113,7 +117,7 @@ raise ClotError("Exit signal during pipetting has occured!")
 class PMPError(Exception):
     pass
     # pressure monitored pipetting error (PMP)
-raise PMPError("Tip" + str(self.tipNumber) + "is effected. Please diagnose immediately.")
+raise PMPError("Tip" + str(self.tipNumber) + "is affected. Please diagnose immediately.")
 
 class PMPInstrumentError(Exception):
     pass
@@ -131,6 +135,7 @@ raise LiquidArrivalCheckError("Incorrect volume dispensed before pipetting!")
 '''Methods necessary in order to test exception handling
 with the first 100 TECAN commands from the JoVE article
 experiment'''
+
 # class to store the amount of destination and source liquids
 class liquidClass():
     # assume 500 uL for now for sourceLiquid
